@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amine1102, 21 years old, student at ESIPE (France)
-- 👀 I'm looking for a apprenticeship in cybersecurity
+- 👀 I'm looking for a apprenticeship 
 - 📫 amine.laimeche@gmail.com
 
 <!---
