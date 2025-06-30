@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amine1102, 21 years old, student in computer engineering
+- 👋 Hi, I’m @Amine1102, 24 years old, student in computer engineering
 - 👀  
 - 📫 amine.laimeche@gmail.com
 
