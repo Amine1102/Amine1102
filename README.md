@@ -5,7 +5,6 @@
 
 
 
-   [![CV Preview](./cv.png)](./cv.pdf)
 
 <!---
 Amine1102/Amine1102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
