@@ -3,6 +3,7 @@
 - 📫 amine.laimeche@gmail.com
 - Mon CV ci dessous : 
 
+[![CV Preview](./cv.PNG)](./cv.pdf)
 
 
 
