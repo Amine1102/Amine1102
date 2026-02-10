@@ -3,7 +3,7 @@
 - 📫 amine.laimeche@gmail.com
 - Mon CV ci dessous : 
 
-[![CV Preview](./amine-laimeche_20260210_1640.pdf)](./amine-laimeche_20260210_1640.pdf)
+[![CV Preview](./amine-laimeche_20260210_1640_page-0001.jpg)](./amine-laimeche_20260210_1640.pdf)
 
 
 
